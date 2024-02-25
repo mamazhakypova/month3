@@ -2,7 +2,7 @@ from aiogram import executor
 from config import dp
 from handlers import (
 start,
-questionnaire
+questionnaire,
 )
 from database import bot_db
 
